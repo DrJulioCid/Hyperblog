@@ -46,9 +46,7 @@ body
 #post
 {
     padding: 1em;
-<<<<<<< HEAD
-    background: white;
-=======
+    background: blue;
 }
 
 #footer
@@ -57,5 +55,4 @@ body
     color: white;
     text-align: center;
     padding: 5px;
->>>>>>> 5676be88a8d14d2f07188cd72fb25e0f1c875f16
 }
